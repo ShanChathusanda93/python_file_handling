@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+/home/shan/python_codes/file_handling/fileHandling/__init__.py
+/home/shan/python_codes/file_handling/scraping/__init__.py
+.idea/
